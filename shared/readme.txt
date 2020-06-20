@@ -1,0 +1,1 @@
+shared code that should be used by everyone, like final product or helper functions, will be placed here. 
